@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\stenb\Desktop\Ohjelmointi2Tentti\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+440339174.index
+2897561580.index
+974441972.index
+425804374.index
+2908733507.index
+16189233.index

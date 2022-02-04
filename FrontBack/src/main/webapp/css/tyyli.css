@@ -1,0 +1,59 @@
+@charset "ISO-8859-1";
+
+.oikealle{
+	text-align:right;
+}
+th{
+	background-color:#a8d3ff;
+}
+
+th, td {
+	outline-style:solid;
+	outline-color: midnightblue;
+	outline-width:1px;
+	padding: 15px;
+}
+
+tr:nth-child(even) {background-color: #e1f0fd;}
+
+#uusiVene, #takaisin {
+	color: #0052a4;
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+.poista{
+	color: red;
+	text-decoration: underline;
+	cursor: pointer;	
+}
+
+#hakunappi{
+	background-color: white;
+    color: black;
+    padding: 12px 28px;
+    border-radius: 20px;
+    transition-duration: 0.4s;
+    border: 1px solid midnightblue;
+}
+
+ #tallenna {
+	background-color: lightskyblue; 
+    color: black;
+    padding: 12px 28px;
+    border-radius: 20px;
+    transition-duration: 0.4s;
+    border: 2px solid midnightblue;
+}
+
+#hakunappi:hover {
+    background-color: lightskyblue; 
+    color: black;
+    border: 5x solid #0052a4;
+}
+
+#tallenna:hover{
+	background-color: white; 
+    color: black;
+    border: 5x solid #0052a4;
+}
